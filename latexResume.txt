@@ -1,0 +1,295 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Chetana}{Badgujar}{\urlstyle{same}\href{chetanabadgujar32548@gmail.com}{chetanabadgujar32548@gmail.com} | +919579030548 \\
+\href{https://www.linkedin.com/in/chetana-badgujar}{Linkedin} |
+\href{https://github.com/ChetanaBadgujar}{Github} |
+\href{https://leetcode.com/ChetanaBadgujar/}{Leetcode}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{SVKM's IOT, DHULE}
+\descript{B.Tech in Computer Engg}
+\descript{Jul. 2019 - Jul. 2023} 
+\textit{CGPA: 8.82 / 10}
+\sectionsep
+
+\subsection{C.S.B. FAGANE}
+\descript{Jun. 2017 - Jun. 2019}
+
+\textit{XII Boards: 69.69 \% }
+\sectionsep
+
+\subsection{S.K.V. FAGANE}
+\descript{Jun. 2016- Jun. 2017}
+
+\textit{X Boards: 83.60 \%}
+\sectionsep
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     LINKS
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Links} 
+% Facebook:// \href{https://facebook/dd}{\bf dd} \\
+% Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
+% LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
+% YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
+% Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
+% Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     COURSEWORK
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Coursework}
+% \subsection{Graduate}
+% Advanced Machine Learning \\
+% Open Source Software Engineering \\
+% Advanced Interactive Graphics \\
+% Compilers + Practicum \\
+% Cloud Computing \\
+% Evolutionary Computation \\
+% Defending Computer Networks \\
+% Machine Learning \\
+% \sectionsep
+
+% \subsection{Undergraduate}
+% Information Retrieval \\
+% Operating Systems \\
+% Artificial Intelligence + Practicum \\
+% Functional Programming \\
+% Computer Graphics + Practicum \\
+% {\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
+% Unix Tools and Scripting \\
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     SKILLS
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\descript{Programming:}
+Python \textbullet{} JavaScript \textbullet{} Java \textbullet{} \\
+\descript{ Libraries / Frameworks:}
+Django \textbullet{} React.js \textbullet{} Numpy \textbullet{} \\
+Pandas \textbullet{} React Native \textbullet{} \\
+\descript{Familier with:}
+Web Development \textbullet{} MongoDB \textbullet{} 
+MySQL \textbullet{} Git \textbullet{}
+ Github \textbullet{}
+VsCode \textbullet{} \\
+\descript{Soft Skills:}
+Problem-Solving \textbullet{}  Team Work \textbullet{} \\
+Leadership \textbullet{} Communication \textbullet{} \\
+Prioritization \textbullet{}  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% ACHIEVEMENTS
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{0.3cm}
+\section{ACHIEVEMENTS}
+\textbullet{} \textbf{5 Star} Python Programmer on HackerRank.\\
+\textbullet{} Solved \textbf{375+ DSA problems} on Leetcode.\\
+\textbullet{} Java certified with Silver Badge by "IIT Bombay(NPTEL)".\\
+\textbullet{} HTML5 and CSS3 certified by University of Michigan on Coursera.\\
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PARTICIPATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{PARTICIPATION}
+\textbullet{} Entered the "Courage to Create" competition and created a women's hygiene website in \textbf{2 days}. 
+\\
+\textbullet{} Participated in Smart India Hackathon 2022.\\
+\textbullet{} Attended Innovate India Coding championship (IICC).\\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Internship}
+\runsubsection{THE SPARKS FOUNDATION}
+\descript{| Web Development Intern }
+\location{Jul. 2022 - Aug. 2022 | virtual }
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{0.5cm}
+\begin{tightemize}
+\item Developed a Banking system website of \textbf{5 to 6 web pages}, with features like \textbf{transaction history, add and withdraw money and also implemented User Login Authentication and Sign up}.
+\item Used technologies for \textbf{Front-end (HTML, CSS and JavaScript), Back-end (Python-Django) and Database (Sqlite3)}.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Social Media marketing}
+\descript{| Social Media Marketing Intern }
+\location{May. 2021 - Jun. 2021 | virtual }
+% \vspace{0.5cm}
+
+\vspace{0.2cm}
+\begin{tightemize}
+\item Created awareness about the organisation on social media.
+\item \textbf{Arranged 300+ connections} and followers on the company's social media profile, as well as \textbf{50+ registrations} on the company's application.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{PROJECTS}
+\runsubsection{DROWSINESS DETECTION |}
+\href{https://github.com/ChetanaBadgujar/DriverDrowsinessDetection}{LINK}\\
+\descript{Oct. 2022 - Mar. 2023 | PYTHON, CNN, SVM, YOLOv5}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{0.2cm}
+\begin{tightemize}
+\item Proposing a deep learning model with a team of 2 members to detect the drowsiness and fatigue of the driver with the help of \textbf{parameters like eye blinking and yawning}. \\
+\item Different algorithms like \textbf{CNN, SVM and YOLO 5} will be used to build this system and try to achieve \textbf{accuracy of more than 90 to 92 \%}.
+
+\item Utilizing datasets having \textbf{more than 4000 images of eye states and 1500+ images of yawning.}
+\end{tightemize}
+\sectionsep
+
+\runsubsection {PICK-N-DROP |}
+\href{https://pick-n-drop.netlify.app/}{LINK}\\
+\descript{Dec. 2022 | React.js, CSS}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{0.2cm}
+\begin{tightemize}
+\item Developed a full stack cab booking website which provides features like \textbf{cab booking}, \textbf{cancellation} and \textbf{registering as a driver}.
+
+\item This website is built using \textbf{React.js, Node.js, Express.js, MongoDB and Tailwind CSS}.\\
+\end{tightemize}
+\sectionsep
+
+
+ \runsubsection {Buyit |}
+\href{https://hemu-ecommerce-react.netlify.app/}{LINK}\\
+\descript{Dec. 2022 | React.js, Bootstrap 5}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item A Front-end E-commerce site made using \textbf{React.js, React hooks and Bootstrap} with decent UI.\\
+\end{tightemize}
+\begin{tightemize}
+\item For displaying \textbf{product details}, a \textbf{dummy API with data on approximately 80 to 100 }products was used.\\
+\end{tightemize}
+\sectionsep 
+ 
+
+\runsubsection {APPLE UI CLONE |}
+\href{https://chetana-apple-clone-react.netlify.app/}{LINK}\\
+\descript{Oct. 2022 | React.js, CSS}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{0.2cm}
+\begin{tightemize}
+\item Designed a clone of Apple’s official website using \textbf{React.js, react hooks, and CSS}. It is also completely responsive and completed the project \textbf{within 2 days}.
+\end{tightemize}
+\sectionsep
+
+% \runsubsection {RESTAURANT WEBSITE |}
+% \href{https://restaurantsite001.netlify.app/}{LINK}\\
+% \descript{Dec. 2021 | HTML, CSS, JavaScript, Node.js, MySQL.}
+% % \vspace{\topsep} % Hacky fix for awkward extra vertical space
+% \vspace{0.2cm}
+% \begin{tightemize}
+% % \item It is a full-stack restaurant website which is completely responsive.
+% \end{tightemize}
+% % \begin{tightemize}
+% % \item It has features like table booking and cancellation with the help of OTP.
+% % \end{tightemize}
+\sectionsep
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
