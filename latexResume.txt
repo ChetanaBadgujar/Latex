@@ -65,11 +65,11 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Chetana}{Badgujar}{\urlstyle{same}\href{chetanabadgujar32548@gmail.com}{chetanabadgujar32548@gmail.com} | +919579030548 \\
-\href{https://www.linkedin.com/in/chetana-badgujar}{Linkedin} |
-\href{https://github.com/ChetanaBadgujar}{Github} |
-\href{https://leetcode.com/ChetanaBadgujar/}{Leetcode}
-}
+\namesection
+\textwidth{CHETANA BADGUJAR}
+{\urlstyle{same}\href{chetanabadgujar32548@gmail.com}{chetanabadgujar32548@gmail.com} | +919579030548 \\}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -91,17 +91,7 @@
 \textit{CGPA: 8.82 / 10}
 \sectionsep
 
-\subsection{C.S.B. FAGANE}
-\descript{Jun. 2017 - Jun. 2019}
 
-\textit{XII Boards: 69.69 \% }
-\sectionsep
-
-\subsection{S.K.V. FAGANE}
-\descript{Jun. 2016- Jun. 2017}
-
-\textit{X Boards: 83.60 \%}
-\sectionsep
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % %     LINKS
@@ -140,51 +130,67 @@
 % {\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
 % Unix Tools and Scripting \\
 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %     SKILLS
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Skills}
-\descript{Programming:}
-Python \textbullet{} JavaScript \textbullet{} Java \textbullet{} \\
-\descript{ Libraries / Frameworks:}
-Django \textbullet{} React.js \textbullet{} Numpy \textbullet{} \\
-Pandas \textbullet{} React Native \textbullet{} \\
-\descript{Familier with:}
-Web Development \textbullet{} MongoDB \textbullet{} 
-MySQL \textbullet{} Git \textbullet{}
- Github \textbullet{}
-VsCode \textbullet{} \\
-\descript{Soft Skills:}
-Problem-Solving \textbullet{}  Team Work \textbullet{} \\
-Leadership \textbullet{} Communication \textbullet{} \\
-Prioritization \textbullet{}  
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACHIEVEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ACHIEVEMENTS}
+\textbullet{} Entered the "Courage to Create" competition and created a women's hygiene website in \textbf{2 days}. 
+\\
+\textbullet{} \textbf{HTML5 and CSS3} certified by University of Michigan on Coursera.\\
+\textbullet{} Java certified with \textbf{Silver Badge by "IIT Bombay(NPTEL)" }.\\
+\textbullet{} Participated in \textbf{Smart India Hackathon 2022}.\\
+\textbullet{} Attended Innovate India Coding championship \textbf{(IICC)}.\\
+
+\sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % ACHIEVEMENTS
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{0.3cm}
-\section{ACHIEVEMENTS}
-\textbullet{} \textbf{5 Star} Python Programmer on HackerRank.\\
-\textbullet{} Solved \textbf{375+ DSA problems} on Leetcode.\\
-\textbullet{} Java certified with Silver Badge by "IIT Bombay(NPTEL)".\\
-\textbullet{} HTML5 and CSS3 certified by University of Michigan on Coursera.\\
-\sectionsep
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% PARTICIPATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{PARTICIPATION}
-\textbullet{} Entered the "Courage to Create" competition and created a women's hygiene website in \textbf{2 days}. 
-\\
-\textbullet{} Participated in Smart India Hackathon 2022.\\
-\textbullet{} Attended Innovate India Coding championship (IICC).\\
+\textbf{GeeksforGeeks solved: } 340+
+\textbf{LeetCode solved: (2.5 star)    } 370+\\
+\textbf{HackerRank (Python): }  (5 star)
 
 \sectionsep
+
+\section{LINKS}
+Github:// 
+\textbf{CoderChetana}\href{https://github.com/ChetanaBadgujar} \\
+LinkedIn:// \textbf{Chetana Badgujar}\href{https://www.linkedin.com/in/chetana-badgujar}\\
+LeetCode:// \textbf{ChetanaBadgujar}\href{https://leetcode.com/ChetanaBadgujar/} \\
+
+\sectionsep
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     SKILLS
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+Programming: \\
+\textbf{Python \textbullet{} JavaScript \textbullet{} Java \textbullet{} \\
+Data Structures and Algorithms \textbullet{} \\
+HTML \textbullet{} CSS \textbullet{}} \\
+ Libraries / Frameworks: \\
+\textbf{Django \textbullet{} React.js \textbullet{} Numpy \textbullet{} \\
+Pandas \textbullet{}}\\
+Familier with: \\
+\textbf{MongoDB \textbullet{} Tailwind CSS \textbullet{}
+MySQL \textbullet{} }
+Platforms and Tools:\\
+\textbf{Git \textbullet{} Github \textbullet{}
+VsCode \textbullet{} \\ Google Colab \textbullet{}}  \\
+Soft Skills: \\
+\textbf{Problem-Solving \textbullet{}  Team Work \textbullet{} \\
+Leadership \textbullet{} Communication \textbullet{} \\
+Prioritization \textbullet{}  }
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
