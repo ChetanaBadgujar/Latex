@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
 % Version 1.2 (16/9/2014)
@@ -138,10 +138,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{ACHIEVEMENTS}
-\textbullet{} Entered the "Courage to Create" competition and created a women's hygiene website in \textbf{2 days}. 
+\textbullet{} Created a women’s hygiene website within \textbf{2 days} for the "Courage to Create" competition.
 \\
-\textbullet{} \textbf{HTML5 and CSS3} certified by University of Michigan on Coursera.\\
-\textbullet{} Java certified with \textbf{Silver Badge by "IIT Bombay(NPTEL)" }.\\
+\textbullet{}  Certified in\textbf{HTML5 and CSS3} by the University of Michigan on Coursera.\\
+\textbullet{} Java certified with \textbf{Silver Badge by IIT Bombay(NPTEL) }.\\
 \textbullet{} Participated in \textbf{Smart India Hackathon 2022}.\\
 \textbullet{} Attended Innovate India Coding championship \textbf{(IICC)}.\\
 
@@ -155,7 +155,7 @@
 
 
 \textbf{GeeksforGeeks solved: } 340+
-\textbf{LeetCode solved: (2.5 star)    } 370+\\
+\textbf{LeetCode solved: (2.5 star)   } 370+\\
 \textbf{HackerRank (Python): }  (5 star)
 
 \sectionsep
@@ -203,32 +203,35 @@ Prioritization \textbullet{}  }
 \begin{minipage}[t]{0.66\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EXPERIENCE
+% INTERNSHIP
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Internship}
-\runsubsection{THE SPARKS FOUNDATION}
+
+
+\runsubsection {THE SPARKS FOUNDATION |}
 \descript{| Web Development Intern }
-\location{Jul. 2022 - Aug. 2022 | virtual }
+\descript{Jul. 2022 - Aug. 2022 | Remote }
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.5cm}
 \begin{tightemize}
-\item Developed a Banking system website of \textbf{5 to 6 web pages}, with features like \textbf{transaction history, add and withdraw money and also implemented User Login Authentication and Sign up}.
-\item Used technologies for \textbf{Front-end (HTML, CSS and JavaScript), Back-end (Python-Django) and Database (Sqlite3)}.
+\item Developed a Banking system website of \textbf{5 to 6 web pages}, with features such as \textbf{transaction history, adding and withdrawing money, as well as user login authentication and sign-up.}.
+\item Used Front-end \textbf{(HTML, CSS and JavaScript)}, Back-end \textbf{(Python-Django)} and Database \textbf{(Sqlite3)}.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Social Media marketing}
+\runsubsection {Social Media marketing |}
 \descript{| Social Media Marketing Intern }
-\location{May. 2021 - Jun. 2021 | virtual }
-% \vspace{0.5cm}
-
+\descript{May. 2021 - Jun. 2021 | Remote }
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.2cm}
 \begin{tightemize}
 \item Created awareness about the organisation on social media.
-\item \textbf{Arranged 300+ connections} and followers on the company's social media profile, as well as \textbf{50+ registrations} on the company's application.
+\item Arranged \textbf{300+ connections} and followers on the company's social media profile, as well as \textbf{50+ registrations} on the company's application.
 \end{tightemize}
 \sectionsep
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % PROJECTS
@@ -240,10 +243,10 @@ Prioritization \textbullet{}  }
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.2cm}
 \begin{tightemize}
-\item Proposing a deep learning model with a team of 2 members to detect the drowsiness and fatigue of the driver with the help of \textbf{parameters like eye blinking and yawning}. \\
-\item Different algorithms like \textbf{CNN, SVM and YOLO 5} will be used to build this system and try to achieve \textbf{accuracy of more than 90 to 92 \%}.
+\item Proposing a deep learning model with a team of 2 members to detect the driver's drowsiness and fatigue using \textbf{parameters like eye blinking and yawning}. \\
+\item Implementing Different algorithms such as \textbf{CNN, SVM and YOLO 5} to build this system and try to achieve \textbf{accuracy of more than 90 to 92 \%}.
 
-\item Utilizing datasets having \textbf{more than 4000 images of eye states and 1500+ images of yawning.}
+\item Utilizing datasets with over \textbf{ 4000 images of eye states and 1500+ images of yawning.}
 \end{tightemize}
 \sectionsep
 
@@ -253,9 +256,9 @@ Prioritization \textbullet{}  }
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.2cm}
 \begin{tightemize}
-\item Developed a full stack cab booking website which provides features like \textbf{cab booking}, \textbf{cancellation} and \textbf{registering as a driver}.
+\item Developed a full-stack cab booking website with features such as  \textbf{cab booking}, \textbf{cancellation} and \textbf{driver registration.}.
 
-\item This website is built using \textbf{React.js, Node.js, Express.js, MongoDB and Tailwind CSS}.\\
+\item Built using \textbf{React.js, Node.js, Express.js, MongoDB and Tailwind CSS}.\\
 \end{tightemize}
 \sectionsep
 
@@ -265,21 +268,21 @@ Prioritization \textbullet{}  }
 \descript{Dec. 2022 | React.js, Bootstrap 5}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item A Front-end E-commerce site made using \textbf{React.js, React hooks and Bootstrap} with decent UI.\\
+\item Built a front-end e-commerce site using \textbf{React.js, React hooks and Bootstrap} with a decent UI.\\
 \end{tightemize}
 \begin{tightemize}
-\item For displaying \textbf{product details}, a \textbf{dummy API with data on approximately 80 to 100 }products was used.\\
+\item Used a dummy API with data on approximately \textbf{ 80 to 100 } products for displaying \textbf{product details}.\\
 \end{tightemize}
 \sectionsep 
  
-
 \runsubsection {APPLE UI CLONE |}
 \href{https://chetana-apple-clone-react.netlify.app/}{LINK}\\
 \descript{Oct. 2022 | React.js, CSS}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.2cm}
 \begin{tightemize}
-\item Designed a clone of Apple’s official website using \textbf{React.js, react hooks, and CSS}. It is also completely responsive and completed the project \textbf{within 2 days}.
+\item Designed a clone of Apple’s official website using \textbf{React.js, react hooks, and CSS}.
+\item Completed the project within \textbf{2 days} and made it completely responsive.
 \end{tightemize}
 \sectionsep
 
