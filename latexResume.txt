@@ -86,9 +86,9 @@
 \section{Education}
 
 \subsection{SVKM's IOT, DHULE}
-\descript{B.Tech in Computer Engg}
-\descript{Jul. 2019 - Jul. 2023} 
-\textit{CGPA: 8.82 / 10}
+\descript{B.Tech in Computer Engineering} \\
+\text {2019 - 2023 | Dhule, India} \\
+\text {CGPA: 8.7 / 10}
 \sectionsep
 
 
@@ -188,7 +188,7 @@ VsCode \textbullet{} \\ Google Colab \textbullet{}}  \\
 Soft Skills: \\
 \textbf{Problem-Solving \textbullet{}  Team Work \textbullet{} \\
 Leadership \textbullet{} Communication \textbullet{} \\
-Prioritization \textbullet{}  }
+Time Management \textbullet{}  }
 
 
 
@@ -213,21 +213,20 @@ Prioritization \textbullet{}  }
 \descript{| Web Development Intern }
 \descript{Jul. 2022 - Aug. 2022 | Remote }
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\vspace{0.5cm}
+\vspace{\topsep}
 \begin{tightemize}
 \item Developed a Banking system website of \textbf{5 to 6 web pages}, with features such as \textbf{transaction history, adding and withdrawing money, as well as user login authentication and sign-up.}.
 \item Used Front-end \textbf{(HTML, CSS and JavaScript)}, Back-end \textbf{(Python-Django)} and Database \textbf{(Sqlite3)}.
 \end{tightemize}
 \sectionsep
 
-\runsubsection {Social Media marketing |}
-\descript{| Social Media Marketing Intern }
-\descript{May. 2021 - Jun. 2021 | Remote }
+\runsubsection {CodeClause |}
+\descript{| Python Development Intern }
+\descript{April. 2023 - May. 2023 | Remote }
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \vspace{0.2cm}
 \begin{tightemize}
-\item Created awareness about the organisation on social media.
-\item Arranged \textbf{300+ connections} and followers on the company's social media profile, as well as \textbf{50+ registrations} on the company's application.
+\item Created \textbf{3} projects in Python such as Typing Test, Calculator and Random Password Generator.
 \end{tightemize}
 \sectionsep
 
